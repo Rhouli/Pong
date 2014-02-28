@@ -1,3 +1,12 @@
+/* Author: Ryan Houlihan
+ * Pong
+ * 
+ * Simple game of pong.
+ * Player 1 uses "W" for up and "S" for down. 
+ * Player 2 uses "up arrow" for up and "down arrow" for down.    
+ * 
+ */
+
 package Pong;
 import java.awt.*;
 import java.awt.event.KeyEvent;
